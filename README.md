@@ -29,7 +29,7 @@ hub install stable_diffusion
  
 ## :heavy_exclamation_mark: Minimus system specs
 
-* Ubuntu 22.04
+* Ubuntu 18.04+
 * 8GB RAM
 * 2 Core CPU
 * 1GB GPU
