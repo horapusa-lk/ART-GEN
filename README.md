@@ -27,7 +27,7 @@ hub install stable_diffusion
  python3 ai.py
  ```
  
-## :heavy_exclamation_mark: Minimus system specs
+## :heavy_exclamation_mark: Minimus system requirements
 
 * Ubuntu 18.04+
 * 8GB RAM
