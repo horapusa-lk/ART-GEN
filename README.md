@@ -6,6 +6,7 @@ Ai art genarator.
 * Mac os
 
 
+#Installation
  ```shell
 apt install python3
 apt install python3-pip
