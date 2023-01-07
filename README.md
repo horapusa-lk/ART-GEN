@@ -20,3 +20,15 @@ pip install paddlepaddle -i https://mirror.baidu.com/pypi/simple
 pip install paddlehub -i https://mirror.baidu.com/pypi/simple
 hub install stable_diffusion
  ```
+
+# Genarate the art
+ ```python3 ai.py
+ ```
+
+## :heavy_exclamation_mark: Tested system specs
+
+* 32GB RAM
+* 4 Core CPU
+* 4GB GPU
+
+Genarating speed depends on your hardware specs.
