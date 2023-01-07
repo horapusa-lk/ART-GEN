@@ -29,6 +29,7 @@ hub install stable_diffusion
 
 ## :heavy_exclamation_mark: Tested system specs
 
+* Ubuntu 22.04
 * 32GB RAM
 * 4 Core CPU
 * 4GB GPU
