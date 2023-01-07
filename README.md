@@ -22,7 +22,9 @@ hub install stable_diffusion
  ```
 
 # Genarate the art
- ```python3 ai.py
+
+ ```shell
+ python3 ai.py
  ```
 
 ## :heavy_exclamation_mark: Tested system specs
