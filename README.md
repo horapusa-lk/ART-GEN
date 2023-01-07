@@ -7,7 +7,7 @@ Ai art genarator.
 
 
 
-#Installation
+# Installation
 
  ```shell
 apt install python3
