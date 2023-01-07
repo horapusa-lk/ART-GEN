@@ -2,7 +2,13 @@
 Ai art genarator.
 
  ```shell
-    # 在命令行输入以下命令，创建名为paddle_env的环境
-    # 此处为加速下载，使用清华源
-    conda create --name paddle_env python=3.8 --channel https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+apt install python3
+apt install python3-pip
+python -m pip install paddlepaddle-gpu==2.4.1 -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install paddlepaddle-gpu -U
+pip install paddlehub==2.1.0
+sudo apt-get install wget
+pip install paddlepaddle -i https://mirror.baidu.com/pypi/simple
+pip install paddlehub -i https://mirror.baidu.com/pypi/simple
+hub install stable_diffusion
  ```
