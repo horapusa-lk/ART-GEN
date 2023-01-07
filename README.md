@@ -26,6 +26,14 @@ hub install stable_diffusion
  ```shell
  python3 ai.py
  ```
+ 
+## :heavy_exclamation_mark: Minimus system specs
+
+* Ubuntu 22.04
+* 8GB RAM
+* 2 Core CPU
+* 1GB GPU
+ 
 
 ## :heavy_exclamation_mark: Tested system specs
 
