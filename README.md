@@ -1,4 +1,4 @@
-# ART-GEN
+# ART-GEN Beta
 Ai art genarator.
 
 ### Supported os list
