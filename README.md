@@ -1,6 +1,11 @@
 # ART-GEN
 Ai art genarator.
 
+### Supported os list
+* ubuntu 22/20/18
+* Mac os
+
+
  ```shell
 apt install python3
 apt install python3-pip
